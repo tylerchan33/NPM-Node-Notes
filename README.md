@@ -16,3 +16,8 @@
 
 3. run node ${filename}.js to import the module
 
+
+You can download new NPMs by typing 
+
+```npm -i -g ${npm package}```
+
